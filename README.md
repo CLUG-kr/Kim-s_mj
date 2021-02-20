@@ -1,2 +1,24 @@
-# Kim-s_mj
-1차- 토요일까지 안에 내용이랑 디자인 바꿔서 완성본 올려놀게
+# callicpp
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
